@@ -1,0 +1,14 @@
+ENVI
+description = {
+  File Resize Result, x resize factor: 1.000000, y resize factor: 1.000000.
+  [Mon Feb 18 09:50:55 2019]}
+samples = 168
+lines   = 105
+bands   = 135
+header offset = 0
+file type = ENVI Standard
+data type = 12
+interleave = bsq
+sensor type = Unknown
+byte order = 0
+wavelength units = Unknown

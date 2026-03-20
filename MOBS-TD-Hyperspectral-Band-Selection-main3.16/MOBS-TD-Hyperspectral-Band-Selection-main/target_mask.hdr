@@ -1,0 +1,13 @@
+ENVI
+description = {
+  Image created from input ROIs [Sun Aug 01 16:07:37 2021]}
+samples = 168
+lines   = 105
+bands   = 1
+header offset = 0
+file type = ENVI Standard
+data type = 1
+interleave = bsq
+sensor type = Unknown
+byte order = 0
+wavelength units = Unknown
